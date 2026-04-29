@@ -56,7 +56,7 @@ A production-ready LLM-powered agent system with tool-calling capabilities (web 
 
 ### 1. Clone & Configure
 ```bash
-git clone https://github.com/yourusername/ai-tool-calling-platform.git
+git clone https://github.com/suraj7880314386/ai-tool-calling-platform.git
 cd ai-tool-calling-platform
 cp .env.example .env
 # Add your OPENAI_API_KEY to .env
